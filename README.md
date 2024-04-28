@@ -1,9 +1,8 @@
 # Sistema Bancario
----
-
-# Descrição
 
 Esses é um sistema bancário feito com na linguagem java com conceitos de threads e exclusão mútua.
+---
+
 
 ## Descrição
 
@@ -11,13 +10,13 @@ Uma descrição mais detalhada do seu projeto, explicando o que ele faz, por que
 
 ## Pré-requisitos e como executar o projeto
 
-Você precisa ter o Java JDK 17 ou superior instalado no seu computador.
-Clone o repositório do projeto ou baixe os arquivos e execute o programa.
+1. Você precisa ter o Java JDK 17 ou superior instalado no seu computador.
+2. Clone o repositório do projeto ou baixe os arquivos e execute o programa.
 
 ## Observações
 A main do projeto java está na classe Banco, portanto a incialização dos objetos das classes estão lá
 
-##Funcionamento do sistema
+## Funcionamento do sistema
 
 Claro! Este projeto em Java simula um sistema bancário básico com a interação entre clientes, funcionários e lojas. Aqui está um breve resumo do seu funcionamento:
 
