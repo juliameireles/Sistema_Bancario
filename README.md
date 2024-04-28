@@ -6,7 +6,7 @@ Esses é um sistema bancário feito com na linguagem java com conceitos de threa
 
 ## Descrição
 
-Uma descrição mais detalhada do seu projeto, explicando o que ele faz, por que é útil e como funciona. Inclua informações sobre as principais funcionalidades e características.
+Este projeto simula a interação entre diferentes entidades em um sistema bancário, onde clientes vão  realiza compras, as lojas vão receber pagamentos e pagar salários e os funcionários vao receber seus salarios e investir uma parte deles. O uso de threads e locks garante a concorrência e o devido compartilhamento de recursos entre as threads.
 
 ## Pré-requisitos e como executar o projeto
 
