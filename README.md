@@ -6,7 +6,7 @@ Esses é um sistema bancário feito com na linguagem java com conceitos de threa
 
 ## Descrição
 
-Este projeto simula a interação entre diferentes entidades em um sistema bancário, onde clientes vão  realiza compras, as lojas vão receber pagamentos e pagar salários e os funcionários vao receber seus salarios e investir uma parte deles. O uso de threads e locks garante a concorrência e o devido compartilhamento de recursos entre as threads.
+Este projeto simula a interação entre diferentes entidades em um sistema bancário, onde clientes vão  realizar compras, as lojas vão receber pagamentos e pagar salários e os funcionários vão receber seus salarios e investir uma parte deles. O uso de threads e locks garante a concorrência e o devido compartilhamento de recursos entre as threads.
 
 ## Pré-requisitos e como executar o projeto
 
@@ -14,11 +14,11 @@ Este projeto simula a interação entre diferentes entidades em um sistema banc�
 2. Clone o repositório do projeto ou baixe os arquivos e execute o programa.
 
 ## Observações
-A main do projeto java está na classe Banco, portanto a incialização dos objetos das classes estão lá
+A Main do projeto java está na classe Banco, portanto a incialização dos objetos das classes estão lá
 
 ## Funcionamento do sistema
 
-Claro! Este projeto em Java simula um sistema bancário básico com a interação entre clientes, funcionários e lojas. Aqui está um breve resumo do seu funcionamento:
+Este projeto em Java simula um sistema bancário básico com a interação entre clientes, funcionários e lojas.  Aqui temos está um breve resumo de como ele funciona:
 
 1. **Clientes**:
    - Cada cliente é representado por uma thread.
